@@ -1,0 +1,9 @@
+Welcome to the Steadfast Color Scheme!
+
+Activate by selecting:
+  Preferences => Color Scheme => Steadfast
+
+Find a bug or have an improvement? Let me know at:
+  https://github.com/serogers/steadfast_color_scheme
+
+Enjoy!
