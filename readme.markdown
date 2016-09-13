@@ -4,7 +4,7 @@ An easy-on-the-eyes color scheme for the everyday coder. Soft colors and reasona
 
 This color scheme is compatible with [Sublime Text](http://www.sublimetext.com) and [TextMate](http://macromates.com).
 
-![View an Example](https://github.com/serogers/steadfast_color_scheme/blob/master/examples/ruby/example2.png)
+![View an Example](https://raw.githubusercontent.com/serogers/steadfast_color_scheme/master/examples/ruby/example2.png)
 
 ## Installation
 
